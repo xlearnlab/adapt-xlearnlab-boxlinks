@@ -1,6 +1,6 @@
 /*
 * adapt-xlearnlab-boxlinks
-* License - http://github.com/adaptlearning/adapt_framework/LICENSE
+* License - https://github.com/xlearnlab/adapt-xlearnlab-boxlinks/blob/master/LICENSE
 * Maintainers - Oliver Pincus <oliver.pincus@xlearnlab.net>
 */
 define(function(require) {

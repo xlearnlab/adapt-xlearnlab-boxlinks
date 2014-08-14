@@ -1,12 +1,12 @@
 {
-  "name": "adapt-contrib-text",
+  "name": "adapt-xlearnlab-boxlinks",
   "version": "1.1.0",
-  "homepage": "https://github.com/darylhedley/adapt-contrib-text",
+  "homepage": "https://github.com/xlearnlab/adapt-xlearnlab-boxlinks",
   "authors": [
-    "Daryl Hedley <darylhedley@hotmail.com>"
+    "Oliver Pincus <oliver.pincus@xlearnlab.net>"
   ],
-  "description": "A simple core contributed text component",
-  "main": "/js/adapt-contrib-text.js",
+  "description": "A simple component to show a list of links",
+  "main": "/js/adapt-xlearnlab-boxlinks.js",
   "keywords": [
     "adapt-plugin",
     "adapt-component"
@@ -18,8 +18,8 @@
     "tag": "v1.0.0",
     "commit": ""
   },
-  "_source": "git://github.com/adaptlearning/adapt-contrib-text.git",
+  "_source": "git://github.com/xlearnlab/adapt-xlearnlab-boxlinks.git",
   "_target": "~1.0.0",
-  "_originalSource": "adapt-xlearnlab-link",
+  "_originalSource": "adapt-xlearnlab-boxlinks",
   "_direct": true
 }

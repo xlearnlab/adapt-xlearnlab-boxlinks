@@ -1,17 +1,12 @@
-#adapt-contrib-text
+#adapt-xlearnlab-boxlinks
 
-A very simple adapt core contributed text component.
-
+A  simple component to display a list of URL links with a label and a URL.
 
 ##Installation
 
 First, be sure to install the [Adapt Command Line Interface](https://github.com/adaptlearning/adapt-cli), then from the command line run:-
 
-        adapt install adapt-contrib-text
-
-This component can also be installed by adding the component to the adapt.json file before running `adapt install`:
-
-        "adapt-contrib-text": "*"
+        adapt install adapt-xlearnlab-boxlinks
 
 ##Usage
 
@@ -21,7 +16,7 @@ This is a very simple component with just title and body text elements.
 
 ####_component
 
-This value must be: `text`
+This value must be: `boxlinks`
 
 ####_classes
 
@@ -33,13 +28,11 @@ This defines the position of the component in the block. Values can be `full`, `
 
 ####displayTitle and body
 
-The `displayTitle` and `body` settings can be left blank. Although the blank component could be used instead: [adapt-contrib-blank](https://github.com/adaptlearning/adapt-contrib-blank)
+The `displayTitle` and `body` settings can be left blank. 
 
-##Limitations
+####_label and _URL
 
-To be completed.
+Use _label and _URL to add links with a label and a URL.
 
-##Browser spec
-
-This component has been tested to the standard Adapt browser specification.
-
+"_label": "lab.xlearnlab.net",
+"_URL": "http://lab.xlearnlab.net"
