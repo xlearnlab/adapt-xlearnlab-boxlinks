@@ -1,0 +1,15 @@
+{
+  "name": "adapt-xlearnlab-boxlinks",
+  "version": "0.0.1",
+  "homepage": "https://github.com/xlearnlab/adapt-xlearnlab-link",
+  "authors": [
+    "Oliver Pincus <oliver@oliverpincus.com>"
+  ],
+  "description": "A simple link component",
+  "main": "/js/adapt-xlearnlab-boxlinks.js",
+  "keywords": [
+    "adapt-plugin",
+    "adapt-component"
+  ],
+  "license": "GPLv3"
+}

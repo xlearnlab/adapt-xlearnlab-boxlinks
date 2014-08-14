@@ -1,0 +1,12 @@
+<div class="boxlinks-inner component-inner">
+	{{> component this}}
+    <div class="boxlinks-widget component-widget">
+		<ul>
+		{{#each _items}}
+			<li>	
+				<a href="{{{_URL}}}">{{{_label}}}</a>        
+			</li>
+		{{/each}}
+		<ul>	
+    </div>
+</div>
