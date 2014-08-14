@@ -32,7 +32,7 @@ The `displayTitle` and `body` settings can be left blank.
 
 ####_label and _URL
 
-Use _label and _URL to add links with a label and a URL.
+Use `_label` and `_URL` to add links with a label and a URL.
 
-"_label": "lab.xlearnlab.net",
-"_URL": "http://lab.xlearnlab.net"
+		"_label": "lab.xlearnlab.net",
+		"_URL": "http://lab.xlearnlab.net"
